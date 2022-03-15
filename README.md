@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack | Full Stack Development
 - 💞️ I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me anilkrsingh14200@gmail.com
--  My hobbies are playing and watching Cricket 
+- 🏏 My hobbies are playing and watching Cricket 
 
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="center">Feel Free to Contact me.....</h3>
