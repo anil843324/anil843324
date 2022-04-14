@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anil Kumar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MERN Stack | Full Stack Development
+- 🌱 I’m currently learning front-end web development 
 - 💞️ I’m looking to collaborate on front-end Projects
 - 📫 How to reach me anilkrsingh14200@gmail.com
 - 🏏 My hobbies are playing and watching Cricket 
