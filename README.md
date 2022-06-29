@@ -12,8 +12,6 @@
                         src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
         <a href="https://www.linkedin.com/in/anil-kumar-7311a3211/"><img alt="linkedin" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
-        <a href="https://mobile.twitter.com/home"><img alt="twitter" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">  <a href="https://git-scm.com/" target="_blank"> <img
@@ -28,7 +26,7 @@
                     <a
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript" width="40" height="40" /> </a>
+                        alt="javascript" width="37" height="37" /> </a>
                          <a href="https://postman.com" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
                         height="40" /> 
@@ -36,7 +34,9 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                         alt="react" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                        alt="redux" width="40" height="40" /> </a> </p>
+                        alt="redux" width="40" height="40" /> </a> <a href="https://tailwindcss.com/"> <img
+                        src="https://hight.io/_nuxt/img/tailwind.3558838.png"
+                        alt="tailwindcss" width="40" height="40" /> </a></p>
 
 <p align="center"><img
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=anil843324&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact"
