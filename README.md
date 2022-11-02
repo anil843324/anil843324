@@ -8,7 +8,7 @@ I love programming, writing, speaking and traveling and playing cricket.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsvijit&label=Profile%20views&color=0e75b6&style=flat" alt="mjsvijit" /> </p>
 
-- 🌱 I’m currently learning **Node JS **
+- 🌱 I’m currently exploring **Node JS **
 
 - 👨‍💻 All of my projects are available at [https://anilkumar.vercel.app/l.app/](https://anilkumar.vercel.app/)
 
