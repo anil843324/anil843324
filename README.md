@@ -10,7 +10,7 @@ I love programming, writing, speaking and traveling and playing cricket.</h3>
 
 - 🌱 I’m currently exploring **Node JS and React Native **
 
-- 👨‍💻 All of my projects are available at (https://personal-potfolio-cyan.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://personal-portfolio-xi-smoky.vercel.app/)
 
 - 📫 How to reach me **MO-7255842110**
 
