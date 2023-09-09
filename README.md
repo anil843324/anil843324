@@ -1,8 +1,7 @@
 
 <img align="center" alt="Coding" width="100%" height="250px" src="https://tapendrapandey.com.np/wp-content/uploads/2020/09/head.gif" />
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
-<h3 align="center">I'm a Software Tester with 6 months of hands-on experience in using Robot Framework and Selenium for effective software testing. Let's ensure quality together!, and Data Structures & Algorithms.
-I love programming, writing, speaking traveling, and playing cricket.</h3>
+<h3 align="center">I'm a Software Tester with 6 months of hands-on experience in  Robot Framework and Selenium for Software testing. Have relevant skills in Data Structures and Algorithms and I write industry-standard code. I am a dedicated individual and a team player </h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
