@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsvijit&label=Profile%20views&color=0e75b6&style=flat" alt="mjsvijit" /> </p>
 
-- 🌱 I’m currently exploring **Node JS and React Native **
+- 🌱 I’m currently exploring **Mobile Automation Testing**
 
 - 👨‍💻 All of my projects are available at (https://personal-portfolio-xi-smoky.vercel.app/)
 
