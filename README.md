@@ -74,7 +74,3 @@ How to reach me **MO-7255842110**
         src="https://github-readme-streak-stats.herokuapp.com/?user=anil843324&theme=dark&hide_border=true"
         alt="anil843324" />
 </p>
-
-- ### 📈 GitHub Activity:
-<a href="https://github.com/anil843324/github-readme-activity-graph"><img alt="anil843324's Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=anil843324&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
