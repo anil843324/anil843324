@@ -25,7 +25,10 @@ How to reach me **MO-7255842110**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+    <a href="https://playwright.dev/java/docs/intro" target="_blank" rel="noreferrer">
+        <img src="https://repository-images.githubusercontent.com/403222057/5927bf3d-8b0d-46d8-9777-bc9c23531fd6"
+            alt="Playwright" width="40" height="40" />
+                <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
         <img src="https://www.bing.com/th?id=OIP._pf1l5t5u6FHzBLJl9bPAwHaJ3&w=90&h=106&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
             alt="robot framework" width="40" height="40" />
         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
