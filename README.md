@@ -12,7 +12,7 @@ As a QA Automation Tester, I bring over 1+ years of hands-on experience in Robot
         alt="mjsvijit" />
 </p>
 
-- 🌱 I’m currently exploring **Mobile Automation Testing** - 👨‍💻 All of my
+- 🌱 I am currently learning **Playwright for Java-based web automation** - 👨‍💻 All of my
 projects are available at (https://personal-portfolio-xi-smoky.vercel.app/) - 📫
 How to reach me **MO-7255842110**
 
